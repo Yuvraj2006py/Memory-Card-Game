@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply a default sans-serif font to the document */
+body {
+  @apply font-sans;
+}
